@@ -1,6 +1,6 @@
 # GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models
 * Authors: [Archiki Prasad](https://archiki.github.io), [Peter Hase](https://peterbhase.github.io/), [Xiang Zhou](https://owenzx.github.io/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/) (UNC Chapel Hill)
-* [Paper](https://archiki.github.io/GrIPS.html)
+* [Paper](https://arxiv.org/abs/2203.07281)
 * **Note:** This is preliminary version of our code. The complete code to run all experiments in the paper will be added shortly.
 
 <img src="./assets/Main Pipeline.png" alt="teaser image" width="7500"/>
