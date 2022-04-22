@@ -30,7 +30,7 @@ parser.add_argument('--meta-dir', default='logs/', help='folder location to stor
 parser.add_argument('--meta-name', default='search.txt', help='file name to store metadata of search')
 parser.add_argument('--patience', default=2, type=int, help='Type in the max patience P (counter)')
 parser.add_argument('--num-candidates', default=5, type=int, help='Number of candidates in each iteration (m)')
-parser.add_argument('--num-iters', default=10, type=int, help='Max number of search iterations')
+parser.add_argument('--num-iter', default=10, type=int, help='Max number of search iterations')
 parser.add_argument('--key-id', default=0, type=int, help='Use if you have access to multiple Open AI keys')
 parser.add_argument('--edits', nargs="+", default=['del', 'swap', 'sub', 'add'], help='space of edit ops to be considered')
 
