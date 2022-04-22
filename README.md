@@ -24,7 +24,7 @@ pip install -r requirements.txt
 * Here is an example code to run GrIPS (with default InstructGPT babbage)
 ```
 python run_search.py --mode "Instruction Only" --task-idx 0 --train-seed 0 \
---num-compose 1 --num-candidates 5 --num-iters 10 --patience 2 --write-preds \
+--num-compose 1 --num-candidates 5 --num-iter 10 --patience 2 --write-preds \
 --meta-dir "logs/" --meta-name "babbage_all_edits_l_1_m_5_n_10@seed_0.txt"
 ```
 
