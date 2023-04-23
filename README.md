@@ -32,7 +32,7 @@ python run_search.py --mode "Instruction Only" --task-idx 0 --train-seed 0 \
 We thank the authors and contributors of [Callibrate Before Use](https://github.com/tonyzhaozh/few-shot-learning), and [Natural-Instructions](https://github.com/allenai/natural-instructions) for their public code release. 
 
 ## Reference
-Please cite our paper if you use our dataset in your works:
+Please cite our paper if you use our code in your works:
 ```bibtex
 
 @article{Prasad2022GrIPS,
